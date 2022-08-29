@@ -1,0 +1,9 @@
+baseURL = 'http://mwlkGroup.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
