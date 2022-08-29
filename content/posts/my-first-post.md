@@ -4,7 +4,7 @@ date: 2022-08-29T16:27:32+08:00
 draft: false
 ---
 
-SOS团万岁! 
+SOS团万岁! 自由学习万岁!
 
 <html>
   <head>
