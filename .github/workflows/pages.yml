@@ -29,4 +29,4 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
           # external_repository: mwlkGroup/mwlkGroup.github.io
-          publish_branch: gh-pages
+          # publish_branch: gh-pages
